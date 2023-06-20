@@ -1,4 +1,4 @@
-# Azure AI (including Azure OpenAI) - powered Conversation Intelligence
+ # Azure AI (including Azure OpenAI) - powered Conversation Intelligence
 
 This solution component provides both real-time and batch transcription and analysis of a call to improve customer experience by extracting custom business insights. This solution can help with agent-assist and virtual agents use cases. Key technical components of this part of the accelerator are:
     * Transcription of live audio stream using Azure Speech Service (for Live)
@@ -74,10 +74,10 @@ This sample uses Express.js backend framework which allows you to make http call
     <img src="common/images/sampleoutputaiintelligence.PNG " align="center" />
     
 **BATCH Window**
-         <img src="common/images/sampleoutputaiintelligenceBatch.PNG " align="center" />
- 
 
-    +	If you have also deployed the frontend ReactJS to Azure App Service then use the deployed app service URL which you can find on Azure portal for your App Service. Example: `https://myweb-app-frontend.azurewebsites.net`
+<img src="common/images/sampleoutputaiintelligenceBatch.PNG " align="center" />
+ 
+If you have also deployed the frontend ReactJS to Azure App Service then use the deployed app service URL which you can find on Azure portal for your App Service. Example: `https://myweb-app-frontend.azurewebsites.net`
 
 ##Steps to set up Ingestion Client through Azure Portal
 
