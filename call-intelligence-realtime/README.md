@@ -74,6 +74,7 @@ This sample uses Express.js backend framework which allows you to make http call
     <img src="common/images/sampleoutputaiintelligence.PNG " align="center" />
     
 **BATCH Window**
+
     <img src="common/images/sampleoutputaiintelligenceBatch.PNG " align="center" />
  
 
